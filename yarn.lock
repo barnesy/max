@@ -903,12 +903,13 @@
     "@babel/helper-validator-identifier" "^7.14.9"
     to-fast-properties "^2.0.0"
 
-"@gas-digital/components@^0.2.8":
-  version "0.2.8"
-  resolved "https://registry.yarnpkg.com/@gas-digital/components/-/components-0.2.8.tgz#e4e053c99d1956aa696ab8b8f55d370b13d1c54b"
-  integrity sha512-2To7DwZhwqQXIMVkuec3jU+NA1gy9FoBOnOS4isZfCxsw597L2N+M+hpoBnLiFyB98Zyw5QqZUj3+tOMS0ieMg==
+"@gas-digital/components@^0.3.0":
+  version "0.3.0"
+  resolved "https://registry.yarnpkg.com/@gas-digital/components/-/components-0.3.0.tgz#891940e14fc9f9c861c3bf55cd732f734cfa3cdb"
+  integrity sha512-v2Xs2PQGGCYeBrpjqGH6uoNVzam4UO2QbDSIcpfyZv3nEDhp3HrZ7fm1hKudHaZ1islV4MdPXqI6l+ZwTEQJdA==
   dependencies:
-    "@gas-digital/components" "^0.2.8"
+    "@gas-digital/components" "^0.3.0"
+    core-js "^3.19.2"
     vue "^2.6.14"
 
 "@gridsome/cli@^0.3.4":
@@ -2608,6 +2609,11 @@ core-js-compat@^3.14.0, core-js-compat@^3.16.0, core-js-compat@^3.6.5:
   dependencies:
     browserslist "^4.17.0"
     semver "7.0.0"
+
+core-js@^3.19.2:
+  version "3.22.1"
+  resolved "https://registry.yarnpkg.com/core-js/-/core-js-3.22.1.tgz#1936e4f1da82675fe22ae10ee60ef638cd9752fd"
+  integrity sha512-l6CwCLq7XgITOQGhv1dIUmwCFoqFjyQ6zQHUCQlS0xKmb9d6OHIg8jDiEoswhaettT21BSF5qKr6kbvE+aKwxw==
 
 core-js@^3.6.4, core-js@^3.6.5:
   version "3.17.3"
