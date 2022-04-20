@@ -1,12 +1,10 @@
-import '../../component-library/lib/assets/styles/global.scss';
+import '../node_modules/@gas-digital/components/lib/assets/styles/global.scss';
 
 import NavList from "./components/NavList";
 import Logo from "./components/Logo";
 import FooterLogo from "./components/FooterLogo";
 import FooterLeft from "./components/FooterLeft";
 import FooterNavList from "./components/FooterNavList";
-
-import Button from "../../component-library/lib/ui/Button.vue";
 
 import { Card,
          CardGroup,
@@ -20,7 +18,7 @@ import { Card,
          Navigation,
          Footer,
        }
-from '../../component-library';
+from '@gas-digital/components';
 
 export default function(Vue, { router, head, isClient }) {
 
@@ -30,7 +28,6 @@ export default function(Vue, { router, head, isClient }) {
   Vue.component('FooterNavList', FooterNavList);
   Vue.component('FooterLeft', FooterLeft);
 
-  Vue.component('Button', Button);
   Vue.component('Navigation', Navigation);
   Vue.component('Logo', Logo);
   Vue.component('Card', Card);
