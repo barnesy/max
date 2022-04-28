@@ -5,11 +5,11 @@
     bgImage="url('https://www.fueluponthis.com/assets/img/ms-header-background.jpg')"
   >
     <template #page-header>
-      <Header class="v3">
+      <Header class="v2">
         <template>
-          Max Barnes
+          max's maximum things
         </template>
-        <template #support>This is my website</template>
+        <template #support>these are my things!!!</template>
       </Header>
     </template>
 
@@ -19,11 +19,20 @@
       padding="6rem 3rem 7rem"
     >
       <template #title>
-        Things I like
+        look at these things!!!
       </template>
+      
       <template>
+       <CardGroup>
+         
+         
+         
+
+       </CardGroup>
+
 
       </template>
+    
     </PageSection>
 
   </Directory>
