@@ -2,7 +2,7 @@
   <Directory
     class="narrow dark"
     bgColor="var(--light-blue)"
-    bgImage="url('https://www.fueluponthis.com/assets/img/ms-header-background.jpg')"
+    bgImage="url('/blue-to-black.jpg')"
   >
     <template #page-header>
       <Header class="v2">
@@ -14,7 +14,6 @@
     </template>
 
     <PageSection
-      class="narrow left"
       bgColor="var(--light-grey)"
       padding="6rem 3rem 7rem"
     >
@@ -35,7 +34,7 @@
 
          <Card url="https://www.tiktok.com/@iambarnesy/video/6963017995178249477?is_copy_url=1&is_from_webapp=v1">
            <template #image>
-           <g-image src="~/assets/my-ad.png" />
+             <g-image src="~/assets/my-ad.png" />
            </template>
            <template>
              my maximum ad
@@ -44,10 +43,10 @@
 
          <Card>
            <template #image>
-            
+            <g-image src="~/assets/max.png" />
            </template>
            <template>
-             
+             this is me i am 8 years old
            </template>
          </Card>
 

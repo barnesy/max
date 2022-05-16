@@ -2,7 +2,7 @@
   <Directory
     class="narrow dark"
     bgColor="var(--light-blue)"
-    bgImage="url('https://www.xmple.com/wallpaper/black-blue-gradient-linear-5120x2880-c2-000000-0000cd-a-105-f-14.svg')" 
+    bgImage="url('/black-to-gray.jpg')" 
   >
     <template #page-header>
       <Header class="v2">
@@ -59,12 +59,35 @@
            <img width="100%" src="https://i.natgeofe.com/k/acd528f6-0862-4a81-94d9-29084bdc0d47/sun_square.jpg" />
            </template>
            <template>
-        
+        yellow star/the sun.
            </template>
          </Card>
 
-         
-
+       <Card>
+           <template #image>
+           <img width="100%" src="https://cdnph.upi.com/ph/st/th/2541647351620/2022/upi_com/3dd687c83bfb4854e4755a1b5b79a087/v1.5/NASA-releases-brilliant-image-of-star-from-James-Webb-Space-Telescope.jpg?lg=5" />  
+           </template>
+           <template>
+         orang star
+           </template>
+         </Card>  
+       
+       <Card>
+           <template #image>
+           <img width="100%" src="https://newsmedia.tasnimnews.com/Tasnim/Uploaded/Image/1396/11/12/1396111218010733913196144.png" />
+           </template>
+           <template>
+         red ginet
+           </template>
+         </Card>                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+        <Card>
+           <template #image>
+           <img width="100%" src="https://c8.alamy.com/comp/2AHF17D/different-types-of-stars-in-dark-space-illustration-2AHF17D.jpg" />  
+           </template>
+           <template>
+          star tipes
+           </template>
+         </Card>                           
        </CardGroup>
 
 

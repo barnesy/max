@@ -2,7 +2,7 @@
   <Directory
     class="narrow dark"
     bgColor="var(--light-blue)"
-    bgImage="url('https://www.fueluponthis.com/assets/img/ms-header-background.jpg')"
+    bgImage="url('green-to-blue.jpg')"
   >
     <template #page-header>
       <Header class="v2">
