@@ -68,7 +68,6 @@
           <template>
             my ram
           </template>
-          </iframe>
         </Card>
 
         <Card>
