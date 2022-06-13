@@ -9,7 +9,7 @@
     "deploy": "gh-pages -d dist"
   },
   "dependencies": {
-    "@gas-digital/components": "^0.3.0",
+    "@gas-digital/components": "^0.3.7",
     "gh-pages": "^3.2.3",
     "gridsome": "^0.7.0",
     "sass": "1.49.9",
