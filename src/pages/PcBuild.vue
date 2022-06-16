@@ -45,7 +45,7 @@
 
          <Card url="https://www.amazon.com/Corsair-5000X-Tempered-Glass-Mid-Tower/dp/B08M4BN431/ref=sr_1_8?crid=2UY8O0YSKF8ZL&keywords=pc%2Bcase%2Bcorsair&qid=1655301884&s=electronics&sprefix=pc%2Bcase%2Bcor%2Celectronics%2C65&sr=1-8&th=1">
            <template #image>
-            <g-image src="https://c1.neweggimages.com/ProductImage/11-139-165-V21.jpg" />
+            <g-image src="~/assets/case.png" />
            </template>
            <template>
              this is my case
