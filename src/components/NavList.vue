@@ -5,5 +5,6 @@
     <li><g-link class="nav__link" to="/about">about</g-link></li>
     <li><g-link class="nav__link" to="/sun-and-star">sun & star</g-link></li>
     <li><g-link class="nav__link" to="/pc-build">pc build</g-link></li>
+    <li><g-link class="nav__link" to="/animations">animations</g-link></li>
   </ul>
 </template>

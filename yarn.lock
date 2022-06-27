@@ -903,12 +903,12 @@
     "@babel/helper-validator-identifier" "^7.14.9"
     to-fast-properties "^2.0.0"
 
-"@gas-digital/components@^0.3.7":
-  version "0.3.7"
-  resolved "https://registry.yarnpkg.com/@gas-digital/components/-/components-0.3.7.tgz#f3c365f2e1f6efec4ec1eb9f86b17da51b428b3a"
-  integrity sha512-olxTTaCEXwrVtrxS/fdvhQ4FZr5LVPiaCzufFTvUQl0NhMalX+S2KfbRUi2pojGHCwKpFNShRBzHeIKYM+YTZw==
+"@gas-digital/components@^0.4.1":
+  version "0.4.1"
+  resolved "https://registry.yarnpkg.com/@gas-digital/components/-/components-0.4.1.tgz#ca212a5eddde91db73b244f2ae886735ef9ea676"
+  integrity sha512-01Lvk5kKXDUPwcsXGHQCcuTTqMyqoA3zK8QYVrJEAB/VGuuLJUQhkafxflucmkFrtR7XIXv4qsALPkcQEiwTrQ==
   dependencies:
-    "@gas-digital/components" "^0.3.7"
+    "@gas-digital/components" "^0.4.1"
     core-js "^3.19.2"
     vue "^2.6.14"
 

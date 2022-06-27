@@ -2,29 +2,36 @@
   <Directory
     class="narrow dark"
     bgColor="var(--light-blue)"
-    bgImage="url('https://www.farmersalmanac.com/wp-content/uploads/2021/04/forget-me-not-flower-as309740666.jpeg')"
+    bgImage="url('/blue-to-black.jpg')"
   >
     <template #page-header>
       <Header class="v2">
         <template>
-          max's maximum things
+          Animations
         </template>
-        <template #support>these are my things!!!</template>
+        <template #support>Here's some animations!!!</template>
       </Header>
     </template>
 
     <PageSection
-      class="narrow left"
       bgColor="var(--light-grey)"
       padding="6rem 3rem 7rem"
     >
       <template #title>
-        look at these things!!!
+        lets look at these things!!!
       </template>
-
+      one of my favrient
       <template>
        <CardGroup>
 
+         <Card class="large">
+           <template #image>
+             <img src="/walkman.gif" />
+           </template>
+           <template>
+             my first animation
+           </template>
+         </Card>
 
 
 
