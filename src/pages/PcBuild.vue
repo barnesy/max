@@ -43,24 +43,24 @@
            </template>
          </Card>
 
-         <Card url="">
+         <Card url="https://www.amazon.com/Corsair-5000X-Tempered-Glass-Mid-Tower/dp/B08M4BN431/ref=sr_1_8?crid=2UY8O0YSKF8ZL&keywords=pc%2Bcase%2Bcorsair&qid=1655301884&s=electronics&sprefix=pc%2Bcase%2Bcor%2Celectronics%2C65&sr=1-8&th=1">
            <template #image>
-            <g-image src="https://c1.neweggimages.com/ProductImage/11-139-165-V21.jpg" />
+            <g-image src="~/assets/case.png" />
            </template>
            <template>
              this is my case
-             $144
+             $184
            </template>
          </Card>
 
-        <Card url="https://www.amazon.com/gp/product/B07QX9C9WH/ref=ox_sc_act_title_1?smid=ATVPDKIKX0DER&psc=1">
+        <Card url="https://www.amazon.com/EVGA-Supernova-Platinum-Warranty-220-PP-1600-X1/dp/B09M9639VW/ref=sr_1_20?crid=2YS2OFOWC8PTN&keywords=pc+power+supply&qid=1655300515&s=electronics&sprefix=pc+power+%2Celectronics%2C86&sr=1-20">
           <template #image>
-           <g-image src="https://m.media-amazon.com/images/I/61a0KNfNNNL._AC_AA360_.jpg" />
+           <g-image src="https://m.media-amazon.com/images/I/71Lln5+XN9L._AC_SX522_.jpg" />
           </template>
 
           <template>
-             this is my mouse
-             $69
+             this is my power supply
+            $284
           </template>
         </Card>
 
@@ -75,13 +75,14 @@
           </template>
         </Card>
 
-        <Card url="">
+        <Card url="https://www.amazon.com/PNY-GeForce-Gaming-Epic-X-Graphics/dp/B0971ZW8YZ/ref=sr_1_1_sspa?crid=2SR0YN0D8U1Q4&keywords=nvidia%2Bgraphics%2Bcard%2B3080&qid=1655299760&sprefix=invidia%2Bgraphics%2Bcard%2B%2Caps%2C54&sr=8-1-spons&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExNU1ZVTBWMVhWT0NWJmVuY3J5cHRlZElkPUEwNjkzOTY4MUhNSDlJSk1DR1gyMyZlbmNyeXB0ZWRBZElkPUEwMDcxMzEwMTg2T1lQUkwxT0VPVSZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU&th=1';[]">
            <template #image>
-
+            <g-image src="https://m.media-amazon.com/images/I/61qSGEwM2bL._AC_SX522_.jpg" />
           </template>
 
            <template>
-            
+            this is my grafix Card
+           $809
            </template>
          </Card>       
 
