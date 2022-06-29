@@ -24,9 +24,69 @@
 
       <template>
        <CardGroup>
+        <Card url="/memes">
+          <template #image>
+            <g-image src="~/assets/memes.png"/>
+          </template>
+          <template>
+            i want me some skitties
+          </template>
+        </Card>
+
+        <Card url="/memes">
+          <template #image>
+            <g-image src="~/assets/memes.png"/>
+          </template>
+          <template>
+            i want me some skitties
+          </template>
+        </Card>
+
+        <Card url="/memes">
+          <template #image>
+            <g-image src="~/assets/memes.png"/>
+          </template>
+          <template>
+            i want me some skitties
+          </template>
+        </Card>
+
+         <Card url="/memes">
+          <template #image>
+            <g-image src="~/assets/memes.png"/>
+          </template>
+          <template>
+            i want me some skitties
+          </template>
+        </Card>
+
+       <Card url="/memes">
+          <template #image>
+            <g-image src="~/assets/memes.png"/>
+          </template>
+          <template>
+            i want me some skitties
+          </template>
+        </Card>
+
+        <Card url="/memes">
+          <template #image>
+            <g-image src="~/assets/memes.png"/>
+          </template>
+          <template>
+            i want me some skitties
+          </template>
+        </Card>
 
 
-
+        <Card url="/memes">
+          <template #image>
+            <g-image src="~/assets/memes.png"/>
+          </template>
+          <template>
+            i want me some skitties
+          </template>
+        </Card>
 
        </CardGroup>
 
