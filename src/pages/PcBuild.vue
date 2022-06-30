@@ -28,7 +28,7 @@
             <g-image src="~/assets/my-motherbord.png"/>
            </template>
            <template>
-          this is my motherboard 
+          this is my motherboard
           $334
            </template>
          </Card>
@@ -66,10 +66,10 @@
 
         <Card url="https://www.amazon.com/Team-T-Force-PC4-24000-3000MHz-TF4D416G3000HC16CDC01/dp/B079KL4ZHB/ref=asc_df_B079KL4ZHB/?tag=hyprod-20&linkCode=df0&hvadid=309818716690&hvpos=&hvnetw=g&hvrand=988782146756555204&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9010771&hvtargid=pla-569151535083&psc=1">
           <template #image>
-            <g-image src="~/assets/my-ram.png" />
+            <g-image src="~/assets/rams.png" />
           </template>
           <template>
-            
+
             My RAM
             $66
           </template>
@@ -84,14 +84,14 @@
             this is my grafix Card
            $2,109
            </template>
-         </Card>       
+         </Card>
 
 
        </CardGroup>
 
 
       </template>
-    
+
     </PageSection>
 
   </Directory>

@@ -62,7 +62,6 @@
            </template>
            <template>
              aaawwweeeh
-           </template>
          </Card>
           <Card>
            <template #image>
