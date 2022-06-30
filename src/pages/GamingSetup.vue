@@ -32,7 +32,6 @@
            </template>
          </Card>
 
-        
          <Card url="https://www.amazon.com/gp/product/B093BL5TW4/ref=sw_img_1?smid=A35HBQ08LNWVUZ&psc=1">
            <template #image>
             <g-image src="https://m.media-amazon.com/images/I/81pxfTA02rL._AC_SX679_.jpg"/>
@@ -77,7 +76,7 @@
 
 
       </template>
-    
+
     </PageSection>
 
   </Directory>
