@@ -25,7 +25,7 @@
        <CardGroup>
          <Card url="https://www.amazon.com/ASUS-ROG-D4-Motherboard-Thunderbolt/dp/B09J1RM86X/ref=sr_1_1?crid=1DL1RSFZDINC9&keywords=rog+strix+z690-a+gaming+wifi+d4&qid=1655219037&sprefix=rog+strix+z690-a%2Caps%2C77&sr=8-1">
            <template #image>
-            <g-image src="~/assets/motherboard.png"/>
+            <g-image src="~/assets/my-motherbord.png"/>
            </template>
            <template>
           this is my motherboard 
@@ -66,7 +66,7 @@
 
         <Card url="https://www.amazon.com/Team-T-Force-PC4-24000-3000MHz-TF4D416G3000HC16CDC01/dp/B079KL4ZHB/ref=asc_df_B079KL4ZHB/?tag=hyprod-20&linkCode=df0&hvadid=309818716690&hvpos=&hvnetw=g&hvrand=988782146756555204&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9010771&hvtargid=pla-569151535083&psc=1">
           <template #image>
-            <g-image src="~/assets/ram.png" />
+            <g-image src="~/assets/my-ram.png" />
           </template>
           <template>
             
@@ -75,14 +75,14 @@
           </template>
         </Card>
 
-        <Card url="https://www.amazon.com/PNY-GeForce-Gaming-Epic-X-Graphics/dp/B0971ZW8YZ/ref=sr_1_1_sspa?crid=2SR0YN0D8U1Q4&keywords=nvidia%2Bgraphics%2Bcard%2B3080&qid=1655299760&sprefix=invidia%2Bgraphics%2Bcard%2B%2Caps%2C54&sr=8-1-spons&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExNU1ZVTBWMVhWT0NWJmVuY3J5cHRlZElkPUEwNjkzOTY4MUhNSDlJSk1DR1gyMyZlbmNyeXB0ZWRBZElkPUEwMDcxMzEwMTg2T1lQUkwxT0VPVSZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU&th=1';[]">
+        <Card url="https://www.amazon.com/gp/product/B08HR6ZBYJ/ref=ewc_pr_img_1?smid=A1FOYUXL0T4J4U&psc=1">
            <template #image>
-            <g-image src="https://m.media-amazon.com/images/I/61qSGEwM2bL._AC_SX522_.jpg" />
+            <g-image src="https://m.media-amazon.com/images/I/61wbV8oqAbL._AC_SX679_.jpg" />
           </template>
 
            <template>
             this is my grafix Card
-           $809
+           $2,109
            </template>
          </Card>       
 

@@ -42,9 +42,9 @@
            </template>
          </Card>
 
-         <Card url="https://www.amazon.com/CORSAIR-Harpoon-RGB-Wireless-Rechargeable/dp/B07KQWR72Z/ref=sr_1_6?crid=172F8ZKNWGSG1&keywords=corsair+mouse&qid=1655385355&sprefix=corsair%2Caps%2C72&sr=8-6">
+         <Card url="https://www.amazon.com/Redragon-Million-Adjustable-Comfortable-Programmable/dp/B07ZCHKMNL/ref=sr_1_5?crid=1AEE3ZWQ2KL8S&keywords=white%2Bdragon%2Bmouse&qid=1656512778&sprefix=white%2Bdragon%2Bmou%2Caps%2C88&sr=8-5&th=1">
            <template #image>
-            <g-image src="https://m.media-amazon.com/images/I/51w35U77ZXL._AC_SX522_.jpg" />
+            <g-image src="https://m.media-amazon.com/images/I/61R-n5fbuDL._AC_SX522_.jpg" />
            </template>
            <template>
            this my mouse
