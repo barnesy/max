@@ -26,25 +26,25 @@
        <CardGroup>
         <Card url="/memes">
           <template #image>
-            <g-image src="~/assets/memes.png"/>
+            <g-image src="~/assets/m.png"/>
           </template>
           <template>
-            i want me some skitties
+            uwu!!!!!!!!!!!!
+          </template>
+        </Card>
+
+        <Card url="/games">
+          <template #image>
+            <g-image src="~/assets/kirby.png"/>
+          </template>
+          <template>
+            lets get gaming!!!
           </template>
         </Card>
 
         <Card url="/memes">
           <template #image>
-            <g-image src="~/assets/memes.png"/>
-          </template>
-          <template>
-            i want me some skitties
-          </template>
-        </Card>
-
-        <Card url="/memes">
-          <template #image>
-            <g-image src="~/assets/memes.png"/>
+            <g-image src="~/assets/maximum_james655.png"/>
           </template>
           <template>
             i want me some skitties
@@ -85,6 +85,15 @@
           </template>
           <template>
             i want me some skitties
+          </template>
+        </Card>
+
+         <Card url="http://localhost:8080/">
+          <template #image>
+            <g-image src="~/assets/be-gay.png"/>
+          </template>
+          <template>
+            this is my sisters website go try it out
           </template>
         </Card>
 

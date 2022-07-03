@@ -5,6 +5,7 @@ import Logo from "./components/Logo";
 import FooterLogo from "./components/FooterLogo";
 import FooterLeft from "./components/FooterLeft";
 import FooterNavList from "./components/FooterNavList";
+import HotBar from "./components/HotBar";
 
 import { Card,
          CardGroup,
@@ -26,6 +27,7 @@ export default function(Vue, { router, head, isClient }) {
   Vue.component('NavList', NavList);
   Vue.component('FooterLogo', FooterLogo);
   Vue.component('FooterNavList', FooterNavList);
+  Vue.component('HotBar', HotBar);
   Vue.component('FooterLeft', FooterLeft);
 
   Vue.component('Navigation', Navigation);
